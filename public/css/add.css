@@ -1,0 +1,26 @@
+body {
+    background-image: url('https://wallpapershome.com/images/pages/pic_h/17068.jpg');
+    background-size: 100%;
+}
+
+.button {
+    display: inline-block;
+    background-color: #be2784;
+    border-radius: 20px;
+    border: 1px;
+    text-align: center;
+    font-size: 15px;
+    padding: 8px;
+    width: 75px;
+    color: white;
+}
+
+.box {
+    text-align: center;
+    background-color: white;
+    width: 25%;
+    margin-left: 800px;
+    padding: 6px;
+    border-radius: 20px;
+    margin-top: 150px;
+}

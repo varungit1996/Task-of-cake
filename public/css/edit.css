@@ -1,0 +1,26 @@
+body {
+    background-image: url('http://cakedecosupplies.com.au/wp-content/uploads/2018/08/cak_bluecake_header.jpg');
+    background-size: 100%;
+}
+
+.button {
+    display: inline-block;
+    background-color: #229292;
+    border-radius: 20px;
+    border: 1px;
+    text-align: center;
+    font-size: 15px;
+    padding: 8px;
+    width: 75px;
+    color: white;
+}
+
+.div {
+    text-align: center;
+    background-color: white;
+    width: 25%;
+    margin-left: 250px;
+    margin-top: 130px;
+    padding: 6px;
+    border-radius: 20px;
+}
